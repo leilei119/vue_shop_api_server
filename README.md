@@ -19,8 +19,8 @@
 - `package.json` 项目配置文件
 
 ## 下载完之后先初始化项目
-  打开vue_api_server项目文件夹，在文件夹目录中打开powershell
+    打开vue_api_server项目文件夹，在文件夹目录中打开powershell
 ### 安装依赖包（第一次运行）
-  npm install       
+    npm install       
 ### 运行项目
-  node .\app.js     
+    node .\app.js     
